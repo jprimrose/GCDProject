@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 
@@ -44,7 +44,6 @@ if (window.hljs && document.readyState && document.readyState === "complete") {
 <div id="header">
 <h1 class="title">Readme</h1>
 <h4 class="author"><em>James Primrose</em></h4>
-<h4 class="date"><em>9/21/2014</em></h4>
 </div>
 
 
