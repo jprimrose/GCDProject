@@ -3,13 +3,13 @@
 run_analysis code book
 </h1>
 <table border = 0><tr><th>FIELD NAME</th><th>TYPE</th>  <th>VALUES     </th></tr>                                                                        
-<tr><td>"Activity"                                 </td><td>FACTOR STRING</td><td></td></tr>
-<tr><td>                                           </td><td>FACTOR STRING</td><td>1 WALKING             <td></td></tr>
-<tr><td>                                           </td><td>FACTOR STRING</td><td>2	WALKING_UPSTAIRS    <td></td></tr>
-<tr><td>                                           </td><td>FACTOR STRING</td><td>3	WALKING_DOWNSTAIRS  <td></td></tr>
-<tr><td>                                           </td><td>FACTOR STRING</td><td>4	SITTING             <td></td></tr>
-<tr><td>                                           </td><td>FACTOR STRING</td><td>5	STANDING            <td></td></tr>
-<tr><td>                                           </td><td>FACTOR STRING</td><td>6	LAYING              <td></td></tr>
+<tr><td>"Activity"                                 </td><td>FACTOR STRING</td><td>                      </td></tr>
+<tr><td>                                           </td><td>FACTOR STRING</td><td>1 WALKING             </td></tr>
+<tr><td>                                           </td><td>FACTOR STRING</td><td>2	WALKING_UPSTAIRS    </td></tr>
+<tr><td>                                           </td><td>FACTOR STRING</td><td>3	WALKING_DOWNSTAIRS  </td></tr>
+<tr><td>                                           </td><td>FACTOR STRING</td><td>4	SITTING             </td></tr>
+<tr><td>                                           </td><td>FACTOR STRING</td><td>5	STANDING            </td></tr>
+<tr><td>                                           </td><td>FACTOR STRING</td><td>6	LAYING              </td></tr>
 <tr><td>"Subject"                                  </td><td>FACTOR STRING</td><td>1-30                  </td></tr>
 <tr><td>"tBodyAccmeanX"                            </td><td>NUMERIC      </td><td>NORMALIZED [-1,1]</td></tr>
 <tr><td>"tBodyAccmeanY"                            </td><td>NUMERIC      </td><td>NORMALIZED [-1,1] </td></tr>
