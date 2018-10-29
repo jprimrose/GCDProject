@@ -11,7 +11,7 @@ require(plyr)
 #
 # run_analysis.R
 # link awful data together :/
-# subset mean() and std() columns
+# subset mean() and std() columns   
 # decodes activities 
 # add descriptive names to columns
 # exports tidy data set w/avg per var per activity per subject
